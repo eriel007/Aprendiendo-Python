@@ -1,2 +1,4 @@
 # Aprendiendo-Python
-aprendiendo python
+aprendiendo python 
+correr el comando npm install
+npm run start
