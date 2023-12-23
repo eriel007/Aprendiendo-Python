@@ -1,0 +1,22 @@
+.cabezera{
+    height: 13%;
+    width: 100%;
+    background-color: #2e333e;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 0.7px solid #9fef00;;
+    color:#d8dde9;
+}
+h1{
+    margin-left: 10px;
+}
+.logo img {
+	height: 70px;
+}
+.logo{
+    display: flex;
+	align-items: center;
+	margin-right: 6px;
+	height: 100px;
+}

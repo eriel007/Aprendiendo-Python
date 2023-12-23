@@ -1,0 +1,17 @@
+.cajaBotones{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: #2e333e;
+    border-right: 0.7px solid #9fef00;;
+    color:#d8dde9;
+    padding: 10px;
+}
+.btn {
+    margin-top: 5px;
+    background: #9fef00;
+    color:black;
+}
+

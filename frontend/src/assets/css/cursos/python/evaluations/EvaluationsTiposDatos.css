@@ -1,0 +1,10 @@
+.contenedorPadre{
+    background-color: #2e333e;
+    display: flex;
+}
+.contenedorExamen{
+    height: 900px;
+    width: 900px;
+    background-color:#d8dde9;
+    margin: 150px;
+}

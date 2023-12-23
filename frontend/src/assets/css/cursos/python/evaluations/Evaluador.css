@@ -1,0 +1,25 @@
+.terminal2{
+    display: flex;
+
+}
+.respuesta{
+    padding-left: 10px;
+    color:#d8dde9;
+}
+.contenedorEvaluador{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    background: sandybrown;
+}
+.terminal{
+    background:#2e333e;
+    height: 200px;
+    overflow-y: auto;
+}
+.flecha1{
+    color: #9fef00; ;
+}
+.botonEvaluador{
+    background: #0d6efd;
+}

@@ -1,0 +1,9 @@
+.titulo{
+    text-align: center;
+    justify-items: center;
+    height:70px;
+    padding-top: 20px;
+}
+.contenedorHijo{
+    margin: 40px;
+}

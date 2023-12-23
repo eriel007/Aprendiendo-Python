@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.cuerpoVentana {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.cuerpoPadreVentana{
+    height: 87%;
+    display: flex;
+}
+.curso{
+    height: 100%;
+    width: 80%;
+    background: #d8dde9;
+    overflow: auto;
+}

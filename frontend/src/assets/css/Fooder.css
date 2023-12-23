@@ -1,0 +1,24 @@
+.fooder{
+    height: 13%;
+    width: 100%;
+    background:#2e333e;
+    border-top: 0.7px solid #9fef00;;
+    color:#d8dde9;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+.ladoIzquierdo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 15px;
+    width: 400px;
+}
+.centro{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    width: 200px;
+}
